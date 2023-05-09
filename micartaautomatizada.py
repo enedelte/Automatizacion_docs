@@ -13,7 +13,7 @@ paragraph10 = document.add_paragraph('Respetado(a) señor(a): Reciba un cordial 
 paragraph11 = document.add_paragraph('Porque nos interesa ofrecerle un mejor servicio, queremos que nos cuente cómo fue su experiencia con la solución de su solicitud PQRS para lo cual lo invitamos a contestar dos preguntas en el siguiente enlace https://forms.office.com/r/pJaFmjkLW1')
 Paragraph12 = document.add_paragraph('Esperamos haber aclarado su inquietud y le expresamos nuestra permanente disposición para atenderlo (a). Recuerde que NUEVA EPS S.A., tiene a su alcance varios canales de atención al usuario, para aclararle cualquier inquietud o suministrarle la información que usted requiera a través de la línea en Bogotá 601 3077022 y la línea gratuita 018000954400 para el resto del país, nuestra APP Nueva EPS o a través de nuestro portal web www.nuevaeps.com.co.')
 paragraph13 = document.add_paragraph('Cordialmente,')
-#### RESOLVER ADJUNTAR IMAGEN imagen1 = document.add_picture('firma.png')
+## resolver document.add_picture('C:\Users\daale\OneDrive - NUEVA EPS\GO_PQR\querys\firmajc.png')
 paragraph14 = document.add_paragraph('DIRECCION DE GESTION OPERATIVA')
 paragraph15 = document.add_paragraph('Gerencia de Afiliaciones')
 paragraph16 = document.add_paragraph('Vicepresidencia de Operaciones')
